@@ -1,15 +1,15 @@
 # MCAR.pytorch
-This repository is a PyTorch implementation of [Learning to Discover Multi-Class Attentional Regions for Multi-Label Image Recognition](https://arxiv.org/abs/2007.01755), [TIP 2021](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing). This repo is created by [Bin-Bin Gao](http://lamda.nju.edu.cn/gaobb).
+This repository is a PyTorch implementation of [Learning to Discover Multi-Class Attentional Regions for Multi-Label Image Recognition](https://arxiv.org/abs/2007.01755). The paper is accepted at [IEEE Trans. Image Processing ([TIP 2021](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing)). This repo is created by [Bin-Bin Gao](https://csgaobb.github.io/).
 
+
+### MCAR Framework
 <img src="./images/MCAR.png" style="zoom:50%;" />
-
-
 
 ### Requirements
 
 Please, install the following packages
 - numpy
-- torch-0.3.1
+- torch-0.4.1
 - torchnet
 - torchvision-0.2.0
 - tqdm
@@ -18,7 +18,7 @@ Please, install the following packages
 ### Options
 - `topN`: number of local regions
 - `threshold`: threshold of localization 
-- `ps`: gloabl pooling style, e.g., 'avg', 'max', 'gwp'
+- `ps`: global pooling style, e.g., 'avg', 'max', 'gwp'
 - `lr`: learning rate
 - `lrp`: factor for learning rate of pretrained layers. The learning rate of the pretrained layers is `lr * lrp`
 - `batch-size`: number of images per batch
@@ -47,7 +47,6 @@ bash run.sh
 ```
 bash run_demo.sh
 ```
-
 ![mcar-demo](./images/mcar-demo.png)
 
 ## Citing this repository
