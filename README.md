@@ -1,7 +1,7 @@
 # MCAR.pytorch
 This repository is a PyTorch implementation of [Learning to Discover Multi-Class Attentional Regions for Multi-Label Image Recognition](https://arxiv.org/abs/2007.01755), [TIP 2021](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing). This repo is created by [Bin-Bin Gao](http://lamda.nju.edu.cn/gaobb).
 
-<img src="/Users/danylgao/Documents/新项目/上海富驰/上海富驰-算法优化文档/D54-images/MCAR-3136101.png" style="zoom:50%;" />
+<img src="./images/MCAR.png" style="zoom:50%;" />
 
 
 
@@ -48,7 +48,7 @@ bash run.sh
 bash run_demo.sh
 ```
 
-![mcar-demo](/Users/danylgao/Documents/新项目/上海富驰/上海富驰-算法优化文档/D54-images/mcar-demo.png)
+![mcar-demo](./images/mcar-demo.png)
 
 ## Citing this repository
 
