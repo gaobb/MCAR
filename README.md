@@ -38,9 +38,9 @@ bash run.sh
 | MobileNet-v2 | 256 x 256  | 88.1     | -        | 69.8      |
 | ResNet-50    | 256 x 256  | 92.3     | -        | 78.0      |
 | ResNet-101   | 256 x 256  | 93.0     | -        | 79.4      |
-| MobileNet-v2 | 448 x 448  | 91.3     | 91.0     | 75.0      |
-| ResNet-50    | 448 x 448  | 94.1     | 93.5     | 82.1      |
-| ResNet-101   | 448 x 448  | 94.8     | 94.3     | 83.8      |
+| MobileNet-v2 | 448 x 448  | 91.3     | [91.0](http://host.robots.ox.ac.uk:8080/anonymous/UB2GQR.html)     | 75.0      |
+| ResNet-50    | 448 x 448  | 94.1     | [93.5](http://host.robots.ox.ac.uk:8080/anonymous/NKXC8W.html)     | 82.1      |
+| ResNet-101   | 448 x 448  | 94.8     | [94.3](http://host.robots.ox.ac.uk:8080/anonymous/D9S0RH.html)     | 83.8      |
 
 ### MCAR Demo
 
