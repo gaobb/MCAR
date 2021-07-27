@@ -54,11 +54,13 @@ bash run_demo.sh
 If you find this code useful in your research, please consider citing us:
 
 ```
-@inproceedings{MCAR_TIP_2021,
-author = {Bin-Bin Gao, Hong-Yu Zhou},
-title = {{Learning to Discover Multi-Class Attentional Regions for Multi-Label Image Recognition}},
-booktitle = {IEEE Transactions on Image Processing (TIP)},
-year = {2021}
+@ARTICLE{MCAR_TIP_2021,
+         author = {Bin-Bin Gao, Hong-Yu Zhou},
+         title = {{Learning to Discover Multi-Class Attentional Regions for Multi-Label Image Recognition}},
+         booktitle = {IEEE Transactions on Image Processing (TIP)},
+         year={2021},
+         volume={30},
+         pages={5920-5932},
 }
 ```
 ## Reference
