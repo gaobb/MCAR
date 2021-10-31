@@ -2,6 +2,10 @@
 This repository is a PyTorch implementation of [Learning to Discover Multi-Class Attentional Regions for Multi-Label Image Recognition](https://arxiv.org/abs/2007.01755). The paper is accepted at [IEEE Trans. Image Processing ([TIP 2021](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing)). This repo is created by [Bin-Bin Gao](https://csgaobb.github.io/).
 
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-label-image-recognition-with-multi/multi-label-classification-on-pascal-voc-2012)](https://paperswithcode.com/sota/multi-label-classification-on-pascal-voc-2012?p=multi-label-image-recognition-with-multi)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-label-image-recognition-with-multi/multi-label-classification-on-pascal-voc-2007)](https://paperswithcode.com/sota/multi-label-classification-on-pascal-voc-2007?p=multi-label-image-recognition-with-multi)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-label-image-recognition-with-multi/multi-label-classification-on-ms-coco)](https://paperswithcode.com/sota/multi-label-classification-on-ms-coco?p=multi-label-image-recognition-with-multi)
+
 ### MCAR Framework
 <img src="./images/MCAR.png" style="zoom:50%;" />
 
